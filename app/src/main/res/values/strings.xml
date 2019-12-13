@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Insurance Premium Calculator</string>
+    <string name="age">Age</string>
+    <string name="gender">Gender</string>
+    <string name="smoker">Smoker</string>
+    <string name="total_premium">Total Premium</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+    <string name="yes">Yes</string>
+    <string-array name="age_range">
+        <item>Less than 17</item>
+        <item>17 - 25</item>
+        <item>26 - 30</item>
+        <item>31 - 40</item>
+        <item>41 - 55</item>
+        <item>More than 55</item>
+    </string-array>
+</resources>
